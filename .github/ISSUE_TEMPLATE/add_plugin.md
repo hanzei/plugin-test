@@ -40,7 +40,7 @@ Please go trough this checklist and confirm every item. If your plugin doesn't f
 **Technical Requirements**
 
 - [ ] The plugin works for 60k concurrent connections and in a high availability environment. (There are currently no tools available to verify this property. Hence, it is checked via code review by a developer)
-2. The plugin logs important events on appropriate log levels to allow system admins to troubleshoot issues.
+- [ ] The plugin logs important events on appropriate log levels to allow system admins to troubleshoot issues.
 
 **Security Requirements**
 
