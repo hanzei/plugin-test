@@ -7,7 +7,7 @@ assignees: hanzei
 
   ---
   <!--
-  Thank you very for submitting your Plugin! It will go trough a review process to make sure it follow the quality standard  of the Marketplace. This process might take a couple of weeks bepending on how many changes are needed.
+  Thank you very for submitting your Plugin! It will go through a review process to make sure it follow the quality standard  of the Marketplace. This process might take a couple of weeks bepending on how many changes are needed.
   Read https://developers.mattermost.com/extend/plugins/community-plugin-marketplace/ before submitting your plugin.
   -->
 
@@ -18,7 +18,7 @@ assignees: hanzei
 
   #### Review Commit
   <!--
-  Please link the commit that should be used for review here
+  Please link the commit or release that should be used for review.
   -->
 
   ## Checklist
