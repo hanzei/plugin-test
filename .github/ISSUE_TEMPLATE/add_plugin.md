@@ -21,7 +21,7 @@ A brief explanaition what your plugin does.
 Please link the commit that should be used for review here
 -->
 
-#### Checklist
+## Checklist
 <!--
 Please go trough this checklist and confirm every item. If your plugin doesn't fulfil every item, leave a comment exmplaining why and if you will fix this.
 -->
