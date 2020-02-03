@@ -26,7 +26,11 @@ Please link the commit or release that should be used for review.
 Please go trough this checklist and confirm every item. If your plugin doesn't fulfil every item, leave a comment explaining why and if you will fix this.
 -->
 
-**Product Requirements**
+**Product Requi
+## Process overview
+<!--
+Please don't check any item here your self.
+-->rements**
 
 - [ ] The plugin is published under an Apache v2 compatible license (e.g. no GPL, APGL). A list of compatible licenses can be found [here](https://apache.org/legal/resolved.html#category-a).
 - [ ] The source code is available in a public git repository.
